@@ -1,11 +1,11 @@
 {
   "type": "new",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "userName": "",
+  "password": "",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "authorizationURL": null,
   "accessTokenURL": null,
   "oauthUserName": null,
@@ -21,6 +21,11 @@
       "label": "label",
       "value": "name",
       "type": "text"
+    },
+    {
+      "label": "password",
+      "value": "****",
+      "type": "password"
     }
   ],
   "additionalParameters": null,

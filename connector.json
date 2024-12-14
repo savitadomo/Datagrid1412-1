@@ -4,22 +4,27 @@
   "connectorType": "datagrid",
   "type": "new",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "userName": "",
+  "password": "",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
     {
       "label": "pass",
-      "value": "passtext",
+      "value": "****",
       "type": "password"
     },
     {
       "label": "label",
       "value": "name",
       "type": "text"
+    },
+    {
+      "label": "password",
+      "value": "pass123",
+      "type": "password"
     }
   ],
   "domoClientId": null,
