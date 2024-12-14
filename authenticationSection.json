@@ -26,6 +26,11 @@
       "label": "password",
       "value": "****",
       "type": "password"
+    },
+    {
+      "label": "pass1",
+      "value": "****",
+      "type": "password"
     }
   ],
   "additionalParameters": null,

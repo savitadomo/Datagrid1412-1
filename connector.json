@@ -23,7 +23,12 @@
     },
     {
       "label": "password",
-      "value": "pass123",
+      "value": "****",
+      "type": "password"
+    },
+    {
+      "label": "pass1",
+      "value": "pass2323",
       "type": "password"
     }
   ],
